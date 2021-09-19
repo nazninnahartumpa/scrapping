@@ -1,0 +1,30 @@
+1621671946401	geckodriver	INFO	Listening on 127.0.0.1:49307
+1621671949483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naznin\\AppData\\Local\\Temp\\rust_mozprofileIX0KDB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621671959722	Marionette	INFO	Listening on port 49317
+1621671960163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nordstrom.com/s/topshop-betsy-platform-chelsea-boot-women/5814719?origin=coordinating-5814719-0-1-HP_SALE-recbot-best_seller_new_iv&recs_placement=HP_SALE&recs_strategy=best_seller_new_iv&recs_source=recbot&recs_page_type=home&recs_seed=0&color=BLACK, line 36: SecurityError: The operation is insecure.
+JavaScript error: https://www.nordstrom.com/s/topshop-betsy-platform-chelsea-boot-women/5814719?origin=coordinating-5814719-0-1-HP_SALE-recbot-best_seller_new_iv&recs_placement=HP_SALE&recs_strategy=best_seller_new_iv&recs_source=recbot&recs_page_type=home&recs_seed=0&color=BLACK, line 36: SecurityError: The operation is insecure.
+1621672182284	Marionette	INFO	Stopped listening on port 49317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naznin\\AppData\\Local\\Temp\\rust_mozprofileV8fRti"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621672043580	Marionette	INFO	Listening on port 49468
+1621672043648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bat.bing.com/bat.js, line 1: uncaught exception: ecomm_pagetype value must be one of the allowed values
+1621672179552	Marionette	INFO	Stopped listening on port 49468
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621672259118	geckodriver	INFO	Listening on 127.0.0.1:50401
+1621672262137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Naznin\\AppData\\Local\\Temp\\rust_mozprofile4Zfm9Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621672265362	Marionette	INFO	Listening on port 50409
+1621672265481	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621685375271	Marionette	INFO	Stopped listening on port 50409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
